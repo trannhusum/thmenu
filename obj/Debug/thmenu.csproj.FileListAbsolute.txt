@@ -1,0 +1,7 @@
+D:\visual studio\Csharp\thmenu\bin\Debug\thmenu.exe.config
+D:\visual studio\Csharp\thmenu\bin\Debug\thmenu.exe
+D:\visual studio\Csharp\thmenu\bin\Debug\thmenu.pdb
+D:\visual studio\Csharp\thmenu\obj\Debug\thmenu.csproj.AssemblyReference.cache
+D:\visual studio\Csharp\thmenu\obj\Debug\thmenu.csproj.CoreCompileInputs.cache
+D:\visual studio\Csharp\thmenu\obj\Debug\thmenu.exe
+D:\visual studio\Csharp\thmenu\obj\Debug\thmenu.pdb
